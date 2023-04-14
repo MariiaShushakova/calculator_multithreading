@@ -1,5 +1,5 @@
 # calculator_multithreading
-Multithreding class
+Multithreding lesson
 
 1. Select command
 2. Select Operation Type ("SUM" - for ex.)
